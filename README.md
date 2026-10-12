@@ -1,5 +1,7 @@
 # L+R 7.1.4 LIVE Panner v2.1
 
+[Full English manual (PDF)](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_EN.pdf) · [Word edition](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_EN.docx)
+
 [下载中文 PDF 手册](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_CN.pdf) · [下载 Word 版本](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_CN.docx)
 
 让声音的移动，成为音乐演奏的一部分。
@@ -35,7 +37,9 @@ v2.1 的核心是独立的 **Motion Editor**：选择轨迹、改变形状、画
 
 ## 文档与反馈
 
-- [中文完整手册](docs/v2.1/guide.zh-CN.md) / [English quick start](docs/v2.1/guide.en.md)
+- [English quick start](docs/v2.1/quick-start.en.md)
+
+- [中文完整手册](docs/v2.1/guide.zh-CN.md) / [Full English manual](docs/v2.1/guide.en.md)
 - [v2.1 更新与已知限制](docs/releases/v2.1.md)
 - [全部版本与 v1.3.1 Public Beta 下载](docs/versions.md)
 - [一代 v1.3.1 Public Beta 导览](docs/v1.3.1/README.md)

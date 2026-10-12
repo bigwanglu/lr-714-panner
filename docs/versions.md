@@ -9,7 +9,9 @@
 - [下载插件包 / Download device package](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_0.zip)
 - [GitHub Release](https://github.com/bigwanglu/lr-714-panner/releases/tag/v2.1.0)
 - [中文完整手册](v2.1/guide.zh-CN.md)
-- [English installation & quick start](v2.1/guide.en.md)
+- [Full English user guide](v2.1/guide.en.md)
+- [English quick start](v2.1/quick-start.en.md)
+- [Full English manual (PDF)](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_EN.pdf) · [Word edition](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_EN.docx)
 - [更新与已知限制 / Changes and known limitations](releases/v2.1.md)
 
 本版加入 Motion 轨迹编辑与 Free / Sync 运动控制。展示名为 v2.1，文件名中的 `v2_1_0` 和 Git tag `v2.1.0` 指向同一版本。请下载 `LR_714_Panner_v2_1_0.zip`，解压后保留完整文件夹及依赖。GitHub 自动生成的 “Source code” 压缩包不是插件安装包。
