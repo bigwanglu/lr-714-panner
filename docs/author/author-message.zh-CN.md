@@ -1,6 +1,6 @@
 # 作者寄语
 
-[返回中文首页](../../README.md) · [English](author-message.en.md)
+[返回中文首页](../../README.zh-CN.md) · [English](author-message.en.md)
 
 <img src="../../assets/images/artist-portrait.jpg" width="420" alt="L+R 王璐的黑白肖像，保留照片中 by QZX 的摄影署名">
 

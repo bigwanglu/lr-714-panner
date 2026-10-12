@@ -2,7 +2,7 @@
 
 **L+R 7.1.4 LIVE Panner v1.3.1 Public Beta**
 
-[版本与下载 / All versions](../versions.md) · [v2.1 中文首页](../../README.md) · [v2.1 English overview](../../README.en.md)
+[版本与下载 / All versions](../versions.md) · [v2.1 中文首页](../../README.zh-CN.md) · [v2.1 English overview](../../README.en.md)
 
 ## 中文
 

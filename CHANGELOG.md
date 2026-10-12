@@ -1,6 +1,6 @@
 # 版本记录 / Changelog
 
-[中文首页](README.md) · [English](README.en.md) · [下载索引 / Downloads](docs/versions.md)
+[中文首页](README.zh-CN.md) · [English](README.en.md) · [下载索引 / Downloads](docs/versions.md)
 
 ## v2.1
 

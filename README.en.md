@@ -1,3 +1,5 @@
+**[中文](README.zh-CN.md) | [English](README.md)**
+
 # L+R 7.1.4 LIVE Panner v2.1
 
 [Full English manual (PDF)](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_EN.pdf) · [Word edition](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_Manual_EN.docx)
@@ -6,7 +8,6 @@
 
 Make the movement of sound part of your performance.
 
-[中文](README.md) · English
 
 [Download v2.1 (pre-release)](https://github.com/bigwanglu/lr-714-panner/releases/download/v2.1.0/LR_714_Panner_v2_1_0.zip) · [Full user guide](docs/v2.1/guide.en.md) · [Versions](docs/versions.md)
 

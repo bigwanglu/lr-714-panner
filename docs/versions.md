@@ -1,6 +1,6 @@
 # 版本与下载 / Versions & downloads
 
-[中文首页](../README.md) · [English overview](../README.en.md)
+[中文首页](../README.zh-CN.md) · [English overview](../README.en.md)
 
 ## v2.1
 
